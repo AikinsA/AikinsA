@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AikinsA
 - 👀 I’m interested in Data and anything that involves Project and Product management.
-- 🌱 I’m currently studying Postgraduate Program in Business Analysis from Purdue University 
-- 💞️ I’m looking to collaborate on any data oriented project
+- 🌱
+- I’m looking to collaborate on any data oriented project
 - 📫 You can reach me on  aikinsaamoah@gmail.com
 
 <!---
